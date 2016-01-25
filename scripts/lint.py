@@ -6,6 +6,7 @@
 # python lint.py file1.yaml file2.yaml ...
 # ... will lint the specified files.
 #test script
+#another
 import glob, sys
 from utils import yaml_load, yaml_dump, data_dir
 
